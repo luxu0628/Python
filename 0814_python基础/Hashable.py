@@ -1,0 +1,9 @@
+a=1
+print(id(a))
+a=2
+print(id(a))
+list1=[1,2,3]
+print(id(list1))
+list1[0]=4
+print(list1)
+print(id(list1))
